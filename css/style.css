@@ -469,6 +469,7 @@
 			display: none;
 		}
 
+
 /* Image */
 
 	.image {
@@ -514,6 +515,17 @@
 				display: block;
 				width: 100%;
 			}
+		.image.fith {
+			display: block;
+			margin: 0 0 2em 0;
+			height: inherit;
+		}
+
+			.image.fith img {
+				display: block;
+				height: inherit;
+			}
+
 
 /* List */
 

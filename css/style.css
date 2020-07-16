@@ -515,6 +515,19 @@
 				display: block;
 				width: 100%;
 			}
+
+		.image.fithalf {
+			display: inline-block;
+			margin: 0 0 2em 0;
+			width: 49%;
+		}
+
+			.image.fithalf img {
+				display: inline-block;
+				width: 100%;
+			}
+
+
 		.image.fith {
 			display: block;
 			margin: 0 0 2em 0;
